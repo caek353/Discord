@@ -65,26 +65,26 @@
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
 
-  --colored-emoji: grayscale(0%);
+  --colored-emoji: grayscale(100%);
 
   /* ═══════『 📜 Server/channel list 』═══════ */
 
   /* Mention - Default value : #F04747 */
-  --mention-color: #f04747;
+  --mention-color: #8000ff;
 
   /* Unread - Default value : #7289DA */
-  --unread-color: #7289da;
+  --unread-color: #8000ff;
 
   /*  『 🔴 Mention colors in chat 』 */
 
   /* Bar on the right - Default value : #C66262 */
-  --mention-color-bar: #c66262;
+  --mention-color-bar: #8000ff;
 
   /* Background - Default value : #C662621F */
-  --mention-color-background: #c662621f;
+  --mention-color-background: #8000ff1f;
 
   /* On hover - Default value : #C6626226 */
-  --mention-color-hover: #c6626226;
+  --mention-color-hover: #8000ff26;
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
@@ -95,7 +95,7 @@
 *   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
 
   /* Default value : #1EDC62 */
-  --spotify-color: #1edc62;
+  --spotify-color: #8000ff;
 
   /* ═══════『 🟢 Status 』═══════ */
 
@@ -136,7 +136,7 @@
   --background-secondary: #1e2233;
   --background-secondary-alt: #191f2e;
   --background-tertiary: #101320;
-  --background-accent: #7289da;
+  --background-accent: #A54cff;
 
   --modal-background: #23283d;
   --background-mobile-primary: #23283d;
