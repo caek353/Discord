@@ -117,10 +117,10 @@
   /* ═══════『 🔰 User popout 』═══════ */
 
   /* Playing wave color */
-  --playing: #7289da;
+  --playing: #A54cff;
 
   /* Listening wave color */
-  --listening: #1db653;
+  --listening: #A54cff;
 
   /* Role circle - Default value : 5px */
   --role-circle: 5px;
